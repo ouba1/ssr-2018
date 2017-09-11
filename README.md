@@ -5,4 +5,4 @@
 ### 下载安装:
 ``` bash
 wget -N --no-check-certificate https://raw.githubusercontent.com/ouba1/BBR/master/bbr.sh && bash bbr.sh install
-======
+
